@@ -1,0 +1,756 @@
+{
+    "schedule":[
+      {
+         "date":"sunday",
+         "hour":[
+            {
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },
+            {
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"Sun Ra, Sun Rise",
+                "host":"RoboDJ",
+                "genre":"Jazz"
+            },{
+                "name":"Sun Ra, Sun Rise",
+                "host":"RoboDJ",
+                "genre":"Jazz"
+            },{
+                "name":"The Gigi Brown Experience",
+                "host":"Gigi Brown",
+                "genre":"Rock/Alt"
+            },{
+                "name":"REVC",
+                "host":"Maxwell",
+                "genre":"Rock/Alt"
+            },{
+                "name":"Rigged Sessions",
+                "host":"Jasn",
+                "genre":"RPM"
+            },{
+                "name":"Rigged Sessions",
+                "host":"Jasn",
+                "genre":"RPM"
+            },{
+                "name":"Brave Little Emo Girl",
+                "host":"Sonam",
+                "genre":"Rock/Alt"
+            },{
+                "name":"Psychs In The Sixty",
+                "host":"Robin",
+                "genre":"Rock/Alt"
+            },{
+                "name":"Cinema Smackdown",
+                "host":"Tessipedia + Michael Brodie",
+                "genre":"Talk"
+            },{
+                "name":"The Tommy John Show",
+                "host":"Tommy Lane",
+                "genre":"Talk"
+            },{
+                "name":"Grade A Explosives",
+                "host":"Andrew Wixq",
+                "genre":"Metal"
+            },{
+                "name":"Bill's Country & Western Favourites",
+                "host":"Bill Coveduck",
+                "genre":"Specialty"
+            },{
+                "name":"No Boundaries",
+                "host":"Dan McAndrew",
+                "genre":"Specialty"
+            },{
+                "split":[
+            {
+                "name":"Eastern Promises",
+                "host":"Donald Roberge",
+                "genre":"Rock/Alt"
+            },{
+                "name":"Towards A Common Horizon",
+                "host":"Hope + Monica + Hailey ",
+                "genre":"Talk"
+            }
+                ]
+            },{
+                "name":"CJLO's Alternative Mega Mix",
+                "host":"RoboDJ",
+                "genre":"Jazz"
+            },{
+                "name":"On The Right Track",
+                "host":"Oshra",
+                "genre":"RPM"
+            }
+            ,{
+                "name":"CJLO's Alternative Mega Mix",
+                "host":"RoboDJ",
+                "genre":"Jazz"
+            }
+         ]
+      },
+      {
+         "date":"monday",
+         "hour":[
+            {
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },
+            {
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"Experiments",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"Experiments",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"The Starting Rotation",
+                "host":"Karim Fall, Gabriel Guindi and Liam Sharp",
+                "genre":"Talk"
+            },{
+                "name":"Death of the Midrange",
+                "host":"Maximillian + Libass",
+                "genre":"Talk"
+            },{
+                "name":"Democracy Now",
+                "host":"RoboDJ/Democracy Now (Syndicated)",
+                "genre":"Talk"
+            },{
+                "name":"INSIDE",
+                "host":"Naia + Iola",
+                "genre":"Specialty"
+            },{
+                "name":"Twang City",
+                "host":"Logan",
+                "genre":"Specialty"
+            },{
+                "name":"2 Days and a Night",
+                "host":"May",
+                "genre":"World"
+            },{
+                "name":"CJLO's Alternative Mega Mix",
+                "host":"RoboDJ",
+                "genre":"Jazz"
+            },{
+                "name":"Whip Appeal",
+                "host":"Samuel",
+                "genre":"Hip-Hop"
+            },{
+                "name":"Dreamscapes",
+                "host":"Jade, Nat, and Nina",
+                "genre":"Talk"
+            },{
+                "name":"The Pressure Drop",
+                "host":"Danny Payne + Stevie Deane",
+                "genre":"Rock/Alt"
+            },{
+                "name":"Voice of the Voiceless",
+                "host":"Judy + Mariam",
+                "genre":"Talk"
+            },{
+                "name":"Queer Chaos",
+                "host":"Garry + Emelie",
+                "genre":"Talk"
+            },{
+                "name":"In The Garage",
+                "host":"Cole + Matthew",
+                "genre":"Rock/Alt"
+            },{
+                "name":"Lektor Decoder",
+                "host":"Hayley + Jason",
+                "genre":"Rock/Alt"
+            },{
+                "name":"Past Tense",
+                "host":"Ari Boon",
+                "genre":"Rock/Alt"
+            },{
+                "name":"Amplitude",
+                "host":"GRM",
+                "genre":"RPM"
+            }
+         ]
+      },
+      {
+         "date":"tuesday",
+         "hour":[
+            {
+                "name":"Floydian Slip",
+                "host":"RoboDJ/Floydian Slip (Syndicated)",
+                "genre":"Rock/Alt"
+            },
+            {
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"Hip's Time to Wake Hop",
+                "host":"RoboDJ",
+                "genre":"Hip-Hop"
+            },{
+                "name":"Hip's Time to Wake Hop",
+                "host":"RoboDJ",
+                "genre":"Hip-Hop"
+            },{
+                "name":"Hip's Time to Wake Hop",
+                "host":"RoboDJ",
+                "genre":"Hip-Hop"
+            },{
+                "name":"At The Movies",
+                "host":"Remi Caron + Danny Aubry",
+                "genre":"Specialty"
+            },{
+                "name":"Democracy Now",
+                "host":"RoboDJ/Democracy Now (Syndicated)",
+                "genre":"Talk"
+            },{
+                "name":"CJLO's Alternative Mega Mix",
+                "host":"RoboDJ",
+                "genre":"Jazz"
+            },{
+                "name":"World Beat News",
+                "host":"Gee Weekes",
+                "genre":"World"
+            },{
+                "name":"Shaking the Habitual",
+                "host":"Cameron",
+                "genre":"Specialty"
+            },{
+                "name":"Mirror Journal",
+                "host":"Lisa",
+                "genre":"RPM"
+            },{
+                "name":"Sonic Lit: A SpokenWeb Radio Show",
+                "host":"Jason Camlot + Katherine McLeod",
+                "genre":"Specialty"
+            },{
+                "name":"The Fluid Mosaic",
+                "host":"Carter",
+                "genre":"Rock/Alt"
+            },{
+                "name":"Cherry Vamp and the Sonic Coffin",
+                "host":"Cherry Vamp",
+                "genre":"Rock/Alt"
+            },{
+                "name":"Bikini Brrroadcast",
+                "host":"Ingrid",
+                "genre":"Rock/Alt"
+            },{
+                "name":"Ashes to Ashes",
+                "host":"Simon",
+                "genre":"Rock/Alt"
+            },
+            {
+                "name":"Hittin' All The Bases",
+                "host":"Sam",
+                "genre":"Rock/Alt"
+            },{
+                "name":"Beatnik Boy: Mixtape",
+                "host":"Samara",
+                "genre":"Rock/Alt"
+            },
+            {
+                "name":"on an evening",
+                "host":"Jo",
+                "genre":"Specialty"
+            },
+            {
+                "name":"Turn Off The Lights",
+                "host":"Auden",
+                "genre":"Rock/Alt"
+            }
+         ]
+      },
+      {
+         "date":"wednesday",
+         "hour":[
+            {
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },
+            {
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"Morning Electro-shock",
+                "host":"RoboDJ",
+                "genre":"RPM"
+            },{
+                "split":[
+                {
+                    "name":"Morning Electro-shock",
+                    "host":"RoboDJ",
+                    "genre":"RPM"
+                },
+                {
+                    "name":"Words and Culture",
+                    "host":"RoboDJ/Words and Culture (Syndicated)",
+                    "genre":"Talk"
+                }
+                ]
+            },{
+                "name":"Trawling the Megahertz",
+                "host":"Paul",
+                "genre":"Specialty"
+            },{
+                "name":"Are We There Yet?",
+                "host":"Sophie",
+                "genre":"Rock/Alt"
+            },{
+                "name":"Democracy Now",
+                "host":"RoboDJ/Democracy Now (Syndicated)",
+                "genre":"RPM"
+            },{
+                "name":"Unheard Of",
+                "host":"Dom",
+                "genre":"Rock/Alt"
+            },{
+                "name":"North-South Hockey",
+                "host":"Avery + Will",
+                "genre":"Talk"
+            },{
+                "name":"I Think You Might Like This",
+                "host":"Sam K",
+                "genre":"Specialty"
+            },{
+                "name":"Something for the Mood",
+                "host":"Zoe",
+                "genre":"Rock/Alt"
+            },{
+                "name":"Patch Notes",
+                "host":"Eric",
+                "genre":"RPM"
+            },{
+                "name":"My Rules",
+                "host":"Gabrielle",
+                "genre":"Rock/Alt"
+            },{
+                "name":"Advice By The Fireplace",
+                "host":"Daniel",
+                "genre":"Talk"
+            },{
+                "name":"The New Consonance",
+                "host":"Delia",
+                "genre":"Specialty"
+            },{
+                "name":"BVST",
+                "host":"Angelica",
+                "genre":"Rock/Alt"
+            },{
+                "name":"BVST",
+                "host":"Angelica",
+                "genre":"Rock/Alt"
+            },{
+                "name":"Rap Radar",
+                "host":"Nick + Thomas + Ronan",
+                "genre":"Hip-Hop"
+            },{
+                "name":"On The Right Track",
+                "host":"There's a Synth in the House",
+                "genre":"RPM"
+            },
+            {
+                "name":"CJLO's Alternative Mega Mix",
+                "host":"RoboDJ",
+                "genre":"Jazz"
+            }
+         ]
+      },
+      {
+         "date":"thursday",
+         "hour":[
+            {
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },
+            {
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"Daydream Nation",
+                "host":"RoboDJ",
+                "genre":"Rock/Alt"
+            },{
+                "name":"Daydream Nation",
+                "host":"RoboDJ",
+                "genre":"Rock/Alt"
+            },{
+                "name":"Free City Radio",
+                "host":"RoboDJ/Free City Radio (Syndicated)",
+                "genre":"Rock/Alt"
+            },{
+                "name":"Everything Everywhere",
+                "host":"Sophie Caza",
+                "genre":"Specialty"
+            },{
+                "name":"Democracy Now",
+                "host":"RoboDJ/Democracy Now (Syndicated)",
+                "genre":"Talk"
+            },{
+                "name":"Weirdo Rippers",
+                "host":"Simon",
+                "genre":"Specialty"
+            },{
+                "name":"The Power Hour",
+                "host":"Will Power + Dominic de Meester",
+                "genre":"Talk"
+            },{
+                "name":"What's Happening in NDG",
+                "host":"Cameron + Lisa",
+                "genre":"Talk"
+            },{
+                "name":"The 514",
+                "host":"Mateo",
+                "genre":"Rock/Alt"
+            },{
+                "name":"Secondhand Sounds",
+                "host":"Kristina",
+                "genre":"Specialty"
+            },{
+                "name":"Hooked On Sonics",
+                "host":"Omar Sonics",
+                "genre":"Rock/Alt"
+            },{
+                "name":"Hooked On Sonics",
+                "host":"Omar Sonics",
+                "genre":"Rock/Alt"
+            },{
+                "name":"Eldest Daughter",
+                "host":"Mercades",
+                "genre":"Rock/Alt"
+            },{
+                "name":"Teen Radio",
+                "host":"Nina + Cameron & teenagers around the NDG borough",
+                "genre":"Rock/Alt"
+            },{
+                "name":"Towards A Common Horizon",
+                "host":"Hope + Monica + Hailey",
+                "genre":"Talk"
+            },{
+                "name":"Electric Messiah",
+                "host":"Abra Cadaver + Aldo Loud",
+                "genre":"Metal"
+            },{
+                "name":"Chi and Ri",
+                "host":"Chi + Ri",
+                "genre":"Hip-Hop"
+            }
+            ,{
+                "name":"CJLO's Alternative Mega Mix",
+                "host":"RoboDJ",
+                "genre":"Jazz"
+            },{
+                "name":"Raving Record Reviews",
+                "host":"Saro",
+                "genre":"Rock/Alt"
+            }
+         ]
+      }
+      ,{
+         "date":"friday",
+         "hour":[
+            {
+                "name":"Finally Midnight",
+                "host":"Will",
+                "genre":"Specialty"
+            },
+            {
+                "name":"Finally Midnight",
+                "host":"Will Power + Dominic de Meester",
+                "genre":"Specialty"
+            },{
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"Wake up Folks!",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"Wake up Folks!",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"Wake up Folks!",
+                "host":"Gigi Brown",
+                "genre":"Specialty"
+            },{
+                "name":"CJLO News Hour",
+                "host":"Cameron/Adam Inniss",
+                "genre":"Talk"
+            },{
+                "name":"Democracy Now",
+                "host":"RoboDJ/Democracy Now (Syndicated)",
+                "genre":"RPM"
+            },{
+                "name":"The Alley",
+                "host":"Aviva",
+                "genre":"Rock/Alt"
+            },{
+                "name":"Charts & Crafts",
+                "host":"Calvin Cashen",
+                "genre":"Rock/Alt"
+            },{
+                "name":"the castle",
+                "host":"Jasper",
+                "genre":"RPM"
+            },{
+                "name":"Whatever She Wants",
+                "host":"Taina",
+                "genre":"Rock/Alt"
+            },{
+                "name":"Dead Beats",
+                "host":"prettydeadb0y",
+                "genre":"Rock/Alt"
+            },{
+                "name":"Tapeworms",
+                "host":"Aviva + Cameron",
+                "genre":"Specialty"
+            },{
+                "name":"The Groove Master's Hour",
+                "host":"Pete Douglas + Gee Weekes",
+                "genre":"Rock/Alt"
+            },{
+                "name":"The Go-Go Radio Magic Show",
+                "host":"Oncle Ian + Prince Palu",
+                "genre":"Rock/Alt"
+            },{
+                "name":"The Go-Go Radio Magic Show",
+                "host":"Oncle Ian + Prince Palu",
+                "genre":"Rock/Alt"
+            },{
+                "name":"El Encuentro Latino",
+                "host":"Diego",
+                "genre":"Talk"
+            },{
+                "name":"Stereo Field Trip",
+                "host":"Shaedolla",
+                "genre":"Specialty"
+            },{
+                "name":"The Come Up",
+                "host":"Matteo",
+                "genre":"Hip-Hop"
+            },{
+                "name":"The Waxing Gibbous",
+                "host":"Béatrice",
+                "genre":"Rock/Alt"
+            }
+         ]
+      }
+      ,{
+         "date":"saturday",
+         "hour":[
+            {
+                "name":"Jazz Boulevard",
+                "host":"RoboDJ/Jazz Boulevard (Syndicated)",
+                "genre":"Jazz"
+            },
+            {
+                "name":"Jazz Boulevard",
+                "host":"RoboDJ/Jazz Boulevard (Syndicated)",
+                "genre":"Jazz"
+            },{
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"CJLO Late Night",
+                "host":"RoboDJ",
+                "genre":"Specialty"
+            },{
+                "name":"World-Up'",
+                "host":"RoboDJ",
+                "genre":"World"
+            },{
+                "name":"World-Up'",
+                "host":"RoboDJ",
+                "genre":"World"
+            },{
+                "name":"World-Up'",
+                "host":"RoboDJ",
+                "genre":"World"
+            },{
+                "name":"The Live Wire Show",
+                "host":"Gee Weekes + Pete Douglas",
+                "genre":"World"
+            },{
+                "name":"Gospel Unlimited",
+                "host":"Ray + Curtis",
+                "genre":"Specialty"
+            },{
+                "name":"Gospel Unlimited",
+                "host":"Ray + Curtis",
+                "genre":"Specialty"
+            },{
+                "name":"Anatomy of Caribbean Music",
+                "host":"Gee Weekes",
+                "genre":"World"
+            },{
+                "name":"Anatomy of Caribbean Music",
+                "host":"Gee Weekes",
+                "genre":"World"
+            },{
+                "name":"Caribbean Callaloo",
+                "host":"DJ610",
+                "genre":"World"
+            },{
+                "name":"Caribbean Callaloo",
+                "host":"DJ610",
+                "genre":"World"
+            },{
+                "name":"Mi Dun Talk",
+                "host":"Kamala mi dun talk Wright",
+                "genre":"World"
+            },{
+                "name":"Mo' Ritmo Radio",
+                "host":"DJ Mister Vee",
+                "genre":"World"
+            },{
+                "name":"The Limelight",
+                "host":"J-Nice + Lady Oracle",
+                "genre":"Hip-Hop"
+            },{
+                "name":"Screamers",
+                "host":"Emma",
+                "genre":"Rock/Alt"
+            },{
+                "name":"CJLO's Alternative Mega Mix",
+                "host":"RoboDJ",
+                "genre":"Jazz"
+            },{
+                "split":[
+                 {
+                    "name":"The Spacious Astrology Playlist",
+                    "host":"Angela",
+                    "genre":"Rock/Alt"
+                },{
+                    "name":"The Go-Go Radio Magic Show",
+                    "host":"Oncle Ian + Prince Palu",
+                    "genre":"Rock/Alt"
+                }
+            ]
+            },{
+                "name":"Brave New Jams",
+                "host":"Clifton Hanger",
+                "genre":"Rock/Alt"
+            },{
+                "name":"Brave New Jams",
+                "host":"Clifton Hanger",
+                "genre":"Rock/Alt"
+            }
+         ]
+      }
+    ]
+}
