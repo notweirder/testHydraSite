@@ -1,5 +1,5 @@
 {
-    "schedule":[
+    "day":[
       {
          "date":"sunday",
          "hour":[
@@ -68,6 +68,10 @@
                 "name":"The Tommy John Show",
                 "host":"Tommy Lane",
                 "genre":"Talk"
+            },{
+                "name":"Grade A Explosives",
+                "host":"Andrew Wixq",
+                "genre":"Metal"
             },{
                 "name":"Grade A Explosives",
                 "host":"Andrew Wixq",
@@ -514,10 +518,6 @@
                 "name":"Teen Radio",
                 "host":"Nina + Cameron & teenagers around the NDG borough",
                 "genre":"Rock/Alt"
-            },{
-                "name":"Towards A Common Horizon",
-                "host":"Hope + Monica + Hailey",
-                "genre":"Talk"
             },{
                 "name":"Electric Messiah",
                 "host":"Abra Cadaver + Aldo Loud",

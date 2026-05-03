@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+    </head>
+    <body>
+        <script src="hydra-synth.js"></script>
+        <script type="text/javascript" src="https://unpkg.com/meyda@5.6.3/dist/web/meyda.min.js"></script>
+            <audio
+  controls
+  loop
+  crossorigin="anonymous"
+  id="audio"
+  src="http://rosetta.shoutca.st:8883/stream"
+></audio>
+<script>
+    
+
+//     /// USED MOZILLA TO HELP https://developer.mozilla.org/en-US/docs/Web/API/Response/json 
+//    console.log( fetch("schedule.JSON").then((response)=> response.json()).then((data)=>{
+//    return data.schedule[currentDay].hour[currentHour];
+//     }))
+
+
+//CREDIT TO GEIKHA IN HYDRA DISCORD FOR GETTING EXTENSIONS WORKING WITH ASYNC FUNCTIONS
+const main =  async function(){
+  
+
+
+
+await loadScript("https://cdn.jsdelivr.net/gh/geikha/hyper-hydra@latest/hydra-text.js")
+
+//CREDIT TO MOZILLA FOR FETCH TUTORIAL https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+try{
+    response = await fetch("https://github.com/notweirder/testHydraSite/blob/main/schedule.JSONhttps://github.com/notweirder/testHydraSite/blob/b74d4ecd7f132b82c492a96166560f96e2c926c2/schedule.JSON")
+    if (!response.ok){
+        throw new Error("Error!" + response.status)
+    }
+    
+    result = await response.json()
+
+      testVar = new Date()
+   myDate = new Date(testVar.valueOf() - testVar.getTimezoneOffset().valueOf())
+     currentHour = myDate.getHours()
+    currentDay = testVar.getDay();
+
+
+    if (result.day[currentDay].hour[currentHour].split){
+        console.log("split!")
+        if (testVar.getMinutes<30)
+    {
+        console.log(result.day[currentDay].hour[currentHour].split[0])
+         showObject = result.day[currentDay].hour[currentHour].split[0]
+    }
+        else{
+        console.log(result.day[currentDay].hour[currentHour].split[1])
+         showObject = result.day[currentDay].hour[currentHour].split[1]
+        }
+    }
+    if (!result.day[currentDay].hour[currentHour].split){
+     showObject = result.day[currentDay].hour[currentHour]
+    }
+
+str = showObject.name
+hydraText.font = "serif"
+hydraText.lineWidth = "1%"
+hydraText.canvasResize = 3
+hydraText.interpolation = "nearest"
+
+
+
+
+
+// a.show()
+ a.setScale(10)
+ a.setCutoff(0)
+ a.setSmooth(0.8)
+     genreBackgroundColor()
+     .add(
+     text(str)).scale(()=>0.8+a.fft[3]/10)
+     .add(text("Genre: " + showObject.genre).scale(0.25).scrollY(0.4))
+    .add(text("Your Host: " + showObject.host).scale(0.25).scrollY(0).scrollX(()=>time/20).scrollY(0.6))
+    .add(text("Your Host: " + showObject.host).scale(0.25).scrollY(0).scrollX(()=>0.5+time/20).scrollY(0.6))
+	.out()
+    console.log('loaded script!!')
+}
+catch(error){
+    console.log(error.message)
+}
+
+}
+
+  window.onload = function(){
+ hydra = new Hydra()
+ main()
+  }
+
+genreBackgroundColor = function(){
+switch(showObject.genre){
+    case "Jazz": return solid(0.17, 0.47, 0.33);
+    case "Specialty": return solid(0.99,0.53,0.21);
+    case "Rock/Alt": return solid(0.98,0.16,0.21);
+    case "RPM": return solid(0.58,0.58,0.58);
+    case "Talk": return solid(0.48,0.69,0.18);
+    case "Hip-Hop": return solid(0.17,0.24,0.48);
+    case "Metal": return solid(0.16,0.15,0.15);
+    case "World": return solid(0.53,0.24,0.53);
+
+}
+}
+
+
+</script>
+    </body>
+</html>
