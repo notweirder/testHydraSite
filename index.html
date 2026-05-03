@@ -37,7 +37,7 @@ await loadScript("https://cdn.jsdelivr.net/gh/geikha/hyper-hydra@latest/hydra-te
 
 //CREDIT TO MOZILLA FOR FETCH TUTORIAL https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 try{
-    response = await fetch("https://github.com/notweirder/testHydraSite/blob/main/schedule.JSONhttps://github.com/notweirder/testHydraSite/blob/b74d4ecd7f132b82c492a96166560f96e2c926c2/schedule.JSON")
+    response = await fetch("schedule.JSON")
     if (!response.ok){
         throw new Error("Error!" + response.status)
     }
